@@ -1,0 +1,17 @@
+*.pyc
+.env
+pip-selfcheck.json
+bin/
+/lib/
+man/
+media/
+public/
+include/
+local/
+build/
+.Python
+*.log
+lib64
+development/
+*.egg-info
+.tox
